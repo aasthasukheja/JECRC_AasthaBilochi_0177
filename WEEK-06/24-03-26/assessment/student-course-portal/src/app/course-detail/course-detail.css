@@ -1,0 +1,23 @@
+.detail-card {
+  width: 50%;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 2px 2px 8px #ddd;
+  text-align: left;
+}
+
+.back-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 15px;
+  background-color: orange;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.back-btn:hover {
+  background-color: darkorange;
+}

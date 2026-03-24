@@ -1,0 +1,12 @@
+<div *ngIf="course; else noCourse" class="detail-card">
+  <h2>{{ course.title }}</h2>
+  <p><strong>Duration:</strong> {{ course.duration }}</p>
+  <p><strong>Instructor:</strong> {{ course.instructor }}</p>
+  <p><strong>Description:</strong> {{ course.description }}</p>
+
+  <a routerLink="/courses" class="back-btn">Back to Courses</a>
+</div>
+
+<ng-template #noCourse>
+  <p>Course not found.</p>
+</ng-template>

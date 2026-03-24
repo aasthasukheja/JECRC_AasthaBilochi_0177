@@ -1,0 +1,10 @@
+<h2>Available Courses</h2>
+
+<div class="course-list">
+  <div class="course-card" *ngFor="let course of courses">
+    <h3>{{ course.title }}</h3>
+    <p><strong>Duration:</strong> {{ course.duration }}</p>
+    <p><strong>Instructor:</strong> {{ course.instructor }}</p>
+    <button (click)="viewDetails(course.id)">View Details</button>
+  </div>
+</div>
