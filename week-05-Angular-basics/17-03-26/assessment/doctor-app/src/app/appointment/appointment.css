@@ -1,0 +1,17 @@
+h2 {
+  color: #2c3e50;
+}
+
+input, select, textarea {
+  padding: 5px;
+  margin-top: 5px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #2ecc71;
+  border: none;
+  color: white;
+  cursor: pointer;
+}

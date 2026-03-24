@@ -1,0 +1,45 @@
+<h2>Doctor Appointment Booking</h2>
+
+<label>Patient Name:</label>
+<input [(ngModel)]="patientName">
+
+<br><br>
+
+<label>Select Doctor:</label>
+<select [(ngModel)]="doctor">
+  <option value="">-- Select Doctor --</option>
+  <option *ngFor="let d of doctors" [value]="d">
+    {{ d }}
+  </option>
+</select>
+
+<br><br>
+
+<label>Appointment Date:</label>
+<input type="date" [(ngModel)]="date">
+
+<br><br>
+
+<label>Consultation Type:</label><br>
+<input type="radio" value="Online" [(ngModel)]="type"> Online
+<input type="radio" value="Offline" [(ngModel)]="type"> Offline
+
+<br><br>
+
+<label>Symptoms:</label><br>
+<textarea [(ngModel)]="symptoms"></textarea>
+
+<hr>
+
+<h3>Live Appointment Summary</h3>
+
+<p>Name: {{ patientName }}</p>
+<p>Doctor: {{ doctor }}</p>
+<p>Date: {{ date }}</p>
+<p>Type: {{ type }}</p>
+<p>Consultation Fee: ₹{{ getFee() }}</p>
+<p>Symptoms: {{ symptoms }}</p>
+
+<br>
+
+<button (click)="confirm()">Book Appointment</button>

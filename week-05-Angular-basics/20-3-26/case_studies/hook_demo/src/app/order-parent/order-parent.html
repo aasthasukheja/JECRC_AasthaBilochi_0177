@@ -1,0 +1,8 @@
+<h2>Parent Component</h2>
+
+<button (click)="toggleChild()">Toggle Child</button>
+
+<app-orderchild
+  *ngIf="destroyChild"
+  [orderData]="order">
+</app-orderchild>

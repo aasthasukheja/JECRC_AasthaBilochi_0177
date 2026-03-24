@@ -1,0 +1,57 @@
+<h2>Student Dashboard</h2>
+
+<div *ngFor="let student of students"
+     [ngClass]="{'topper': student.marks >= 85}"
+     class="student-card">
+
+  <p><b>Name:</b> {{ student.name }}</p>
+  <p><b>Marks:</b> {{ student.marks }}</p>
+
+  <p *ngIf="student.marks >= 40; else failBlock"
+     [ngStyle]="{'color': 'green'}">
+    Pass
+  </p>
+
+  <ng-template #failBlock>
+    <p [ngStyle]="{'color': 'red'}">Fail</p>
+  </ng-template>
+
+  <div [ngSwitch]="getGrade(student.marks)">
+    <p *ngSwitchCase="'A'">Grade: A</p>
+    <p *ngSwitchCase="'B'">Grade: B</p>
+    <p *ngSwitchCase="'C'">Grade: C</p>
+    <p *ngSwitchDefault>Grade: F</p>
+  </div>
+
+  <p [appStatusColor]="student.marks">
+  Status: {{ student.marks >= 50 ? 'Pass' : 'Fail' }}
+</p>
+
+  <hr>
+</div>
+
+<h3>Role Based Directive</h3>
+
+<button appRole="admin">Delete Student</button>
+<button appRole="user">Edit Student</button>
+
+
+<h3>Price Highlight</h3>
+
+<p [appPriceHighlight]="60000">Laptop - 60000</p>
+<p [appPriceHighlight]="30000">Mouse - 30000</p>
+
+<h3>Click Block Directive</h3>
+
+<button [appClickBlock]="false">Blocked Button</button>
+
+<button [appClickBlock]="true">Allowed Button</button>
+
+
+
+<button (click)="toggleTheme()">Toggle Theme</button>
+
+<div [appTheme]="currentTheme">
+  <h2>Student Dashboard</h2>
+  
+</div>

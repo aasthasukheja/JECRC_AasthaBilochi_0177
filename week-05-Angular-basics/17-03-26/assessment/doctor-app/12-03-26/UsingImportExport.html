@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>JavaScript Module Calculator</title>
+
+<style>
+body{
+    font-family: Arial;
+    background:#f4f4f4;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+    width:350px;
+}
+
+h2{
+    text-align:center;
+}
+
+input{
+    width:100%;
+    padding:10px;
+    margin:8px 0;
+}
+
+button{
+    width:100%;
+    padding:10px;
+    margin-top:8px;
+    border:none;
+    background:#007BFF;
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#0056b3;
+}
+
+.result{
+    margin-top:15px;
+    font-weight:bold;
+    color:#333;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+<h2>Module Calculator</h2>
+
+<input type="number" id="num1" placeholder="Enter first number">
+<input type="number" id="num2" placeholder="Enter second number">
+
+<button onclick="calculate()">Calculate</button>
+
+<div class="result" id="result"></div>
+</div>
+
+<script type="module">
+
+const Utils = `
+export const PI = 3.14159;
+
+export function addition(a,b){
+  return a + b;
+}
+
+export function multiply(a,b){
+  return a * b;
+}
+
+export function subtract(a,b){
+  return a - b;
+}
+
+export function division(a,b){
+  return a / b;
+}
+`;
+
+const blob = new Blob([Utils], { type: 'text/javascript' });
+const url = URL.createObjectURL(blob);
+
+let math;
+
+import(url).then(module => {
+    math = module;
+}).catch(err => {
+    console.error(err);
+});
+
+window.calculate = function(){
+
+    const a = Number(document.getElementById("num1").value);
+    const b = Number(document.getElementById("num2").value);
+
+    const result = `
+    Addition: ${math.addition(a,b)} <br>
+    Multiply: ${math.multiply(a,b)} <br>
+    Subtract: ${math.subtract(a,b)} <br>
+    Division: ${math.division(a,b)}
+    `;
+
+    document.getElementById("result").innerHTML = result;
+}
+
+</script>
+
+</body>
+</html>

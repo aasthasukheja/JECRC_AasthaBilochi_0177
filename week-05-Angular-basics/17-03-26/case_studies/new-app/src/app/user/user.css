@@ -1,0 +1,16 @@
+h2 {
+  color: #3498db;
+}
+
+p {
+  color: #555;
+}
+
+:host {
+  display: block;
+  border: 2px solid #3498db;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #ebf5fb;
+}
