@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ems-docker", "ems-docker", "{90749DA5-BA4A-BCF1-9A8A-8368D0CDAB55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ems_api", "ems-docker\ems_api\ems_api.csproj", "{7CC2C619-22A5-9602-9157-78734E8279AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ems_mvc", "ems-docker\ems_mvc\ems_mvc.csproj", "{A69A08B7-D8A8-3640-32F5-FA6163F1F573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC2C619-22A5-9602-9157-78734E8279AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC2C619-22A5-9602-9157-78734E8279AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC2C619-22A5-9602-9157-78734E8279AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC2C619-22A5-9602-9157-78734E8279AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69A08B7-D8A8-3640-32F5-FA6163F1F573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69A08B7-D8A8-3640-32F5-FA6163F1F573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69A08B7-D8A8-3640-32F5-FA6163F1F573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69A08B7-D8A8-3640-32F5-FA6163F1F573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7CC2C619-22A5-9602-9157-78734E8279AB} = {90749DA5-BA4A-BCF1-9A8A-8368D0CDAB55}
+		{A69A08B7-D8A8-3640-32F5-FA6163F1F573} = {90749DA5-BA4A-BCF1-9A8A-8368D0CDAB55}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1456AB73-ADD6-4F61-BF0B-8EC627FA9392}
+	EndGlobalSection
+EndGlobal
