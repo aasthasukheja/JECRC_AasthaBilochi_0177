@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "StudentGradeProtector/1.0.0": {
+        "runtime": {
+          "StudentGradeProtector.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentGradeProtector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

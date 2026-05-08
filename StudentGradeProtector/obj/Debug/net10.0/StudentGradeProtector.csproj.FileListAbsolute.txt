@@ -1,0 +1,15 @@
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\bin\Debug\net10.0\StudentGradeProtector.exe
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\bin\Debug\net10.0\StudentGradeProtector.deps.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\bin\Debug\net10.0\StudentGradeProtector.runtimeconfig.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\bin\Debug\net10.0\StudentGradeProtector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\bin\Debug\net10.0\StudentGradeProtector.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.AssemblyInfoInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.AssemblyInfo.cs
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.csproj.CoreCompileInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.sourcelink.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\refint\StudentGradeProtector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\StudentGradeProtector.genruntimeconfig.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\StudentGradeProtector\obj\Debug\net10.0\ref\StudentGradeProtector.dll
