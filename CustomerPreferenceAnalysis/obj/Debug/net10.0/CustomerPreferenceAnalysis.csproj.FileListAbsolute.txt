@@ -1,0 +1,15 @@
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\bin\Debug\net10.0\CustomerPreferenceAnalysis.exe
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\bin\Debug\net10.0\CustomerPreferenceAnalysis.deps.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\bin\Debug\net10.0\CustomerPreferenceAnalysis.runtimeconfig.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\bin\Debug\net10.0\CustomerPreferenceAnalysis.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\bin\Debug\net10.0\CustomerPreferenceAnalysis.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.AssemblyInfoInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.AssemblyInfo.cs
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.sourcelink.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\refint\CustomerPreferenceAnalysis.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\CustomerPreferenceAnalysis.genruntimeconfig.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\CustomerPreferenceAnalysis\obj\Debug\net10.0\ref\CustomerPreferenceAnalysis.dll
