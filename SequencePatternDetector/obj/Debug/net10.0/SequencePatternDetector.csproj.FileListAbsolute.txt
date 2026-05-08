@@ -1,0 +1,15 @@
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\bin\Debug\net10.0\SequencePatternDetector.exe
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\bin\Debug\net10.0\SequencePatternDetector.deps.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\bin\Debug\net10.0\SequencePatternDetector.runtimeconfig.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\bin\Debug\net10.0\SequencePatternDetector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\bin\Debug\net10.0\SequencePatternDetector.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.AssemblyInfoInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.AssemblyInfo.cs
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.csproj.CoreCompileInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.sourcelink.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\refint\SequencePatternDetector.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\SequencePatternDetector.genruntimeconfig.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\SequencePatternDetector\obj\Debug\net10.0\ref\SequencePatternDetector.dll
