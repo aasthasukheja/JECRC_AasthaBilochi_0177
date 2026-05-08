@@ -1,0 +1,15 @@
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\bin\Debug\net10.0\WordFrequencyAnalyzer.exe
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\bin\Debug\net10.0\WordFrequencyAnalyzer.deps.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\bin\Debug\net10.0\WordFrequencyAnalyzer.runtimeconfig.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\bin\Debug\net10.0\WordFrequencyAnalyzer.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\bin\Debug\net10.0\WordFrequencyAnalyzer.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.AssemblyInfoInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.AssemblyInfo.cs
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.sourcelink.json
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\refint\WordFrequencyAnalyzer.dll
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.pdb
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\WordFrequencyAnalyzer.genruntimeconfig.cache
+C:\Users\biloc\OneDrive\Desktop\JECRC_AasthaBilochi_0177\WordFrequencyAnalyzer\obj\Debug\net10.0\ref\WordFrequencyAnalyzer.dll
